@@ -1,4 +1,4 @@
-# 📈 SQL Portfolio
+# 🗃️ SQL Portfolio
 Welcome to my repository, a space dedicated to showcasing real-world data engineering and analytics projects designed to solve complex business problems.
 
 ---
