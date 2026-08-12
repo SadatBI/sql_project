@@ -14,7 +14,7 @@ It is designed for **MySQL Workbench** using the reliable **InnoDB** engine, enf
 * **AccountTypes ➔ Accounts:** One-to-Many. An individual account category sets default yield parameters for hundreds of unique account numbers.
 * **Accounts ➔ Transactions:** One-to-Many. A liquid banking account builds a historical timeline of multiple deposit, withdrawal, and transfer events over time.
 
-<img src="Retail_banking_analytics/Schema/Schema.png">
+<img src="Schema/Schema_.png" height="50%">
 
 ---
 
